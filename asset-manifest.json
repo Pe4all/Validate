@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/validate/static/css/main.e17441b6.css",
+    "main.js": "/validate/static/js/main.f25939a6.js",
+    "index.html": "/validate/index.html",
+    "main.e17441b6.css.map": "/validate/static/css/main.e17441b6.css.map",
+    "main.f25939a6.js.map": "/validate/static/js/main.f25939a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17441b6.css",
+    "static/js/main.f25939a6.js"
+  ]
+}
